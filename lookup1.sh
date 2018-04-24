@@ -6,18 +6,7 @@
 # This script will take the list of contacts in datafile and output
 # the contacts in order by last name.
 
-# set -e will exit the script if a command exits with a non-zero status.
-set -e
-
-#if else statement to check if datafile is available
-if [ -e datafile ]
-then
-  echo "Here are the contacts of datafile sorted by last name:"
-else
-  echo "datafile not found"
-  exit 1
-fi
-
+echo "Here are the contacts of datafile sorted by last name:"
 echo #blank line for readability
 
 # using sort command to sort the contents

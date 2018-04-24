@@ -1,4 +1,4 @@
-# LinuxIFinalProject
+# Linux I Final Project
 The final project consist of writing 3 bash scripts.  You must complete the below and submit 3 separate scripts and output from running the scripts. This assignment is due the last day of class.
 
 1. Create a text file called "datafile". Each entry consists of fields separated by colons. The fields are as follows:

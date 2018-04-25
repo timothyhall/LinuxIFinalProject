@@ -1,10 +1,10 @@
 #!/bin/bash
 
-# lookup.sh script
+# lookup1.sh script
 # Timothy Hall
-# April 27, 2018
-# This script will take the list of contacts in datafile and output
-# the contacts in order by last name.
+# April 25, 2018
+# This script will take the list of contacts in datafile and
+# display the them in order by last name.
 
 echo "Here are the contacts of datafile sorted by last name:"
 echo #blank line for readability
